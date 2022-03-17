@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PersWebsiteeReact/static/css/main.d7799d05.css",
+    "main.js": "/PersWebsiteeReact/static/js/main.369f569d.js",
+    "static/media/port4.jpg": "/PersWebsiteeReact/static/media/port4.d7e5b9fc594006d6701c.jpg",
+    "static/media/port5.jpg": "/PersWebsiteeReact/static/media/port5.db087dd77ba0a8fe7031.jpg",
+    "static/media/port1.jpg": "/PersWebsiteeReact/static/media/port1.379ac061f47f4d7571e9.jpg",
+    "static/media/port6.jpg": "/PersWebsiteeReact/static/media/port6.09a8a205143e947b84e9.jpg",
+    "static/media/port2.jpg": "/PersWebsiteeReact/static/media/port2.3b8a5339869d7a0bd8d7.jpg",
+    "static/media/port3.jpg": "/PersWebsiteeReact/static/media/port3.8fe4bd8ea14b308df328.jpg",
+    "static/media/fani.jpg": "/PersWebsiteeReact/static/media/fani.cd7adc6f809901d9570d.jpg",
+    "static/media/img18.jpg": "/PersWebsiteeReact/static/media/img18.cb568e56c75c006e39b0.jpg",
+    "static/media/me1.jpg": "/PersWebsiteeReact/static/media/me1.9e902b6b9ad2638b6e3d.jpg",
+    "static/media/CV.pdf": "/PersWebsiteeReact/static/media/CV.21ac4cd1a4a83eebcdbe.pdf",
+    "static/media/me.jpg": "/PersWebsiteeReact/static/media/me.c37603e586a5a5d46c86.jpg",
+    "index.html": "/PersWebsiteeReact/index.html",
+    "main.d7799d05.css.map": "/PersWebsiteeReact/static/css/main.d7799d05.css.map",
+    "main.369f569d.js.map": "/PersWebsiteeReact/static/js/main.369f569d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7799d05.css",
+    "static/js/main.369f569d.js"
+  ]
+}
