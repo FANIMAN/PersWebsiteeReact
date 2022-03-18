@@ -77,7 +77,7 @@ header {
     height: 22rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 15rem;
+    margin-top:18%;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
